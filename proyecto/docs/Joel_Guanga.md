@@ -1,4 +1,3 @@
-
 - 👋 Hola, yo soy @JOElGUANGA
 - 👀 Me interesa la programacion
 - 🌱 Actualmente estoy aprendiendo
