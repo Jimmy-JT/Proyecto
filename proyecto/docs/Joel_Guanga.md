@@ -1,4 +1,3 @@
-site_name: My Docs
 
 - 👋 Hola, yo soy @JOElGUANGA
 - 👀 Me interesa la programacion
